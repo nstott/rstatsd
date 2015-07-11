@@ -1,0 +1,7 @@
+[package]
+name = "rstatsd"
+version = "0.1.0"
+authors = ["Nick Stott <nick@nickstott.com>"]
+
+[dependencies]
+log = "*"
